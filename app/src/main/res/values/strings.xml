@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Libro de Dragones</string>
+
+    <!-- Textos de las pantallas principales: cámbialos aquí -->
+    <string name="titulo_enciclopedia">Enciclopedia de Dragones</string>
+    <string name="subtitulo_enciclopedia">Libro de campo del aspirante a entrenador</string>
+    <string name="titulo_registro">Registro de Encuentros</string>
+    <string name="subtitulo_registro">Mis anotaciones de campo</string>
+    <string name="busqueda_hint">Busca encuentros por dragón</string>
+</resources>
